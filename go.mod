@@ -12,6 +12,8 @@ require (
 	sigs.k8s.io/controller-runtime v0.16.3
 )
 
+// Personal fork - tracking upstream actions/actions-runner-controller
+// Last synced: 2024-01
 require (
 	github.com/beorn7/perks v1.0.1 // indirect
 	github.com/cespare/xxhash/v2 v2.2.0 // indirect
